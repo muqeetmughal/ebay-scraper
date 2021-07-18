@@ -1,0 +1,26 @@
+Hi, i just completed the Project.
+There is a file inside folder named as "main.py"
+
+First of all Make Sure that Python 3.8 or 3.9 is installed on your System
+
+Make sure these Modules are installed on your System:
+BeautifulSoup
+Selenium
+
+, if not installed just Open CMD Terminal
+and type these Commands:
+
+"pip install bs4, selenium"
+
+then open terminal in the Current Working Directory and type:
+
+"python main.py"
+
+
+to run the scaraper
+
+After Scrapper Run Successfully, it will create a result_{time of creation}.csv file
+
+if still you face any problem during this process, let me know i will help you to run the file.
+
+Thanks
